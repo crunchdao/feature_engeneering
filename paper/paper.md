@@ -17,7 +17,7 @@ footer-right: "CrunchDAO"
 abstract: "CrunchDAO's Machine-Learning-enabled ensemble framework builds on top of traditional econometric risk models, requiring a number of steps in the data preparation: features orthogonalization, standardization, model order reduction, and data obfuscation will be discussed. It is discussed how, in the context of ensemble learning and bagging in particular, combining a variety of orthogonal models yields more accurate estimates of expectations. Moreover, the statistics of the set of predictions can be used to infer a measure of risk in the portfolio management process. We discuss how to integrate this in modern portfolio theory. We briefly discuss the necessary relation between these design choices and the ergodic hypothesis on financial data."
 ---
 
-# Econometrics
+# Econometrics Hello World
 
 In a multi-factor framework of $M$ factors [@Sharpe_1964], [@Fama_1993], the total excess return over the risk-free rate of asset $i \in [1, ..., N]$ is given by
 
